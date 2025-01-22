@@ -1,24 +1,16 @@
 # Exploratory Data Analysis on the Titanic Dataset
-## Problem Statement:
-   In this project, the task is to enhancing the customer experience and 
-optimizing the pricing process for used cars by developing a machine learning 
-model. This model, based on historical car price data, will take into account 
-various features such as the car's make, model, year, fuel type, and transmission 
-type. The goal is to predict the prices of used cars accurately and integrate this 
-model into an interactive web application using Streamlit.
+## Project Overview
 
-## Domain:
-* Automotive Industry , Data Science, Machine Learning
+This project involves performing Exploratory Data Analysis (EDA) on the Titanic dataset to uncover insights about passenger demographics, survival rates, and correlations among features. The insights gained can be applied to business use cases such as customer segmentation, predictive maintenance, and risk assessment.
 
-## Skills take away From This Project:
-* Data Cleaning and Preprocessing
-* Exploratory Data Analysis
-* Machine Learning Model Development
-* Price Prediction Techniques
-* Model Evaluation and Optimization
-* Model Deployment
-* Streamlit Application Development
-* Documentation and Reporting
+## Skills Gained
+
+* Data wrangling and cleaning
+
+* Data visualization using Seaborn and Matplotlib
+
+* Feature engineering and insights extraction
+
   
 ## Results: 
 ### Random Forest: 
@@ -83,10 +75,7 @@ B.N.Piraviena
 
 
 
-#
-##Project Overview
 
-This project involves performing Exploratory Data Analysis (EDA) on the Titanic dataset to uncover insights about passenger demographics, survival rates, and correlations among features. The insights gained can be applied to business use cases such as customer segmentation, predictive maintenance, and risk assessment.
 
 ##Skills Gained
 
