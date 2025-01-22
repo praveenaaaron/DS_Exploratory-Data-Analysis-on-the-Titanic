@@ -90,6 +90,10 @@ Analyze how the engineered features relate to survival.
 7. Insights and Conclusions
 
 Summarize key findings:
+1. Females had a higher survival rate than males.
+2. Passengers in first class were more likely to survive than those in third class.
+3. Younger passengers had a higher survival rate.
+4. Passengers with smaller family sizes were more likely to survive.
 
 
 Developed By:B.N.Piraviena
