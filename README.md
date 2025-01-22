@@ -1,16 +1,17 @@
-Exploratory Data Analysis on the Titanic
-Dataset
-Project Overview
+#Exploratory Data Analysis on the Titanic Dataset
+##Project Overview
 
 This project involves performing Exploratory Data Analysis (EDA) on the Titanic dataset to uncover insights about passenger demographics, survival rates, and correlations among features. The insights gained can be applied to business use cases such as customer segmentation, predictive maintenance, and risk assessment.
-Skills Gained
 
-Data wrangling and cleaning
+##Skills Gained
 
-Data visualization using Seaborn and Matplotlib
+*Data wrangling and cleaning
 
-Feature engineering and insights extraction
-Tools and Technologies
+*Data visualization using Seaborn and Matplotlib
+
+*Feature engineering and insights extraction
+
+##Tools and Technologies
 
 Python
 
@@ -26,7 +27,8 @@ Analyze passenger demographics.
 Investigate survival rates.
 
 Identify correlations among features.
-Approach
+
+##Approach
 
 1. Data Loading
 
@@ -87,7 +89,7 @@ Create a family size feature: FamilySize = SibSp + Parch + 1.
 
 Analyze how the engineered features relate to survival.
 
-7. Insights and Conclusions
+##Insights and Conclusions
 
 Summarize key findings:
 1. Females had a higher survival rate than males.
@@ -96,4 +98,4 @@ Summarize key findings:
 4. Passengers with smaller family sizes were more likely to survive.
 
 
-Developed By:B.N.Piraviena
+##Developed By:B.N.Piraviena
